@@ -8,6 +8,7 @@ CREATE TABLE ORDERS (
 );
 
 
+
 INSERT INTO ORDERS (order_id, customer_id, order_datetime, item_id, order_quantity) VALUES
 ('A-001', 32483, '2018-12-15 09:15:22', 'B000', 3),
 ('A-005', 21456, '2019-01-12 09:28:35', 'B001', 1),
